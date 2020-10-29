@@ -8,3 +8,5 @@ Kotlin é uma linguagem de programação "pragmática" de propósito geral, de c
 Uma das aplicações óbvias do Kotlin é o desenvolvimento do Android. A plataforma ficou "presa" no Java 7 por um tempo (com alguns recursos de linguagem contemporâneos acessíveis através do uso de Retrolambda ou da Jack Toolchain) e Kotlin introduz muitos aprimoramentos para programadores como segurança de ponteiro nulo, funções de extensão e notação infixa.
 
 Kotlin // Kotlin
+
+Jean 

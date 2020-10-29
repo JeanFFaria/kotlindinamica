@@ -6,3 +6,4 @@ Kotlin is designed to interoperate fully with Java, and the JVM version of Kotli
 Kotlin é uma linguagem de programação "pragmática" de propósito geral, de código aberto e estaticamente digitado inicialmente projetada para a JVM (Java Virtual Machine) e Android que combina recursos de programação orientados a objetos e funcionais. É focado em interoperabilidade, segurança, clareza e suporte de ferramentas. Versões do Kotlin visando JavaScript ES5.1 e código nativo (usando LLVM) para uma série de processadores também estão em produção.
 
 
+concordo!

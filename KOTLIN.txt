@@ -2,3 +2,7 @@ KOTLIN PARA INICIANTES
 
 Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference.
 Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin's standard library depends on the Java Class Library, but type inference allows its syntax to be more concise.
+
+Kotlin é uma linguagem de programação "pragmática" de propósito geral, de código aberto e estaticamente digitado inicialmente projetada para a JVM (Java Virtual Machine) e Android que combina recursos de programação orientados a objetos e funcionais. É focado em interoperabilidade, segurança, clareza e suporte de ferramentas. Versões do Kotlin visando JavaScript ES5.1 e código nativo (usando LLVM) para uma série de processadores também estão em produção.
+
+

@@ -9,3 +9,5 @@ Kotlin é uma linguagem de programação "pragmática" de propósito geral, de c
 concordo!
 
 concordo também!!
+
+Alteração Jean
